@@ -25,7 +25,7 @@ class iTunes(AbstractMessagePlugin):
         if info == None:
             message_file.write('Couldn\'t get current track.\n')
         else:
-            message_file.write('%s\n' % info)
+            message_file.write('%s' % info)
 
         return True
 
