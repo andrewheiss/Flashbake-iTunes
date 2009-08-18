@@ -1,14 +1,13 @@
 #
 #	itunes.py
 #
-#	Author: Andrew Heiss - http://www.andrewheiss.com
-#	Project site: http://github.com/andrewheiss/Flashbake-iTunes/
-#	Date: August 18, 2009
-#
-#	Description: 
-#	Frankenscript plugin that takes track information from iTunes via Applescript and adds it to a git commit message with Flashbake
-#
-#	Version 1.0
+#	Author:			Andrew Heiss - http://www.andrewheiss.com
+#	Project site: 	http://github.com/andrewheiss/Flashbake-iTunes/
+#	Description: 	Frankenscript plugin that takes track information from iTunes via Applescript 
+#					and adds it to a git commit message with Flashbake
+#	License: 		Licensed under the MIT License (see README for full information)
+#	Date: 			August 18, 2009
+#	Version:		1.0
 
 import os
 import string
